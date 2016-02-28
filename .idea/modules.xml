@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/event-consumer/event-consumer.iml" filepath="$PROJECT_DIR$/event-consumer/event-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-event-processor/rest-api-event.iml" filepath="$PROJECT_DIR$/spark-event-processor/rest-api-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-event-processor/spark-event-processor.iml" filepath="$PROJECT_DIR$/spark-event-processor/spark-event-processor.iml" />
       <module fileurl="file://$PROJECT_DIR$/spark-poc.iml" filepath="$PROJECT_DIR$/spark-poc.iml" />
     </modules>
   </component>
